@@ -1,4 +1,4 @@
-
+<img width="348" alt="Screenshot 2024-09-10 at 2 05 40 PM" src="https://github.com/user-attachments/assets/8a704f43-d3f7-4d1e-a5d6-b6baf4ef5da4">
 
 #  Quizzler
 
